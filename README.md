@@ -1,10 +1,10 @@
-# NextJS Langchain Template
+# NextJS LangChain Template
 
 This template project makes it easy to setup:
 
 * A NextJS webapp with a basic user interface;
 * A vector store in Pinecone;
-* A Langchain chain
+* A LangChain chain
 
 and then to send a question to your model and display results in the UI.
 
